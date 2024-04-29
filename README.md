@@ -19,7 +19,7 @@ npm run dev
 http://localhost:3000
 ```
 ## App Info
-### Authors
+### Author
 
 Murtaza Vadnagarwala
 
